@@ -73,10 +73,12 @@
 
 6) Some players should spawn without their meds (Patient often cannot get an appointment fast enough to renew them, or forget them when travelling). This would lead to more early round gameplay for doctors, with a few patients coming in to renew their prescriptions (RP).
 
-7) All of the above extends the medical gameplay on what has already been put in the customization screen, but is unique compared to the basic 4 or 5 type of damages already in the game and their treatment when damage already occured.
-These conditions are another layer that adds on top, before the ingame damage settle in. These conditions sometimes add damage if left untreated, or crit patients depending on their severity (a very severe condition would be blood thinners to prevent strokes).
+7) All of the above extends the medical gameplay on what has already been put in the customization screen, but is unique compared to the basic 4 or 5 type of damages already in the game and their current treatment.  I want to keep it simple, condition appears, might add damage to existing types, or change some bleeding treshold or on screen effects, proper drug is used once, and it goes away. 
+These conditions are another layer of flavor/RP. If left untreated, some can even crit patients depending on their severity (a very severe condition would be a stroke happening if you don't take blood thinners and have a history of blood clots or stroke).
 
 8) Having these various conditions and prescriptions would lead to interesting RP with CMO doing rounds for interns?
+
+9) More early round gameplay 
 
    ## Newly introduced conditions that have a specific treatment, how to diagnose, how to cure
 ---------------------------------------
@@ -91,8 +93,6 @@ These conditions are another layer that adds on top, before the ingame damage se
 2) This adds more uses for the stethoscope.
 
 3) Introduces a hammer reflex that can be used for RP, and to be really sure of a stroke if a patient shows up with just one limb weakness. Hold in one hand and aim on different limbs to use. Will return an emote *the arm shakes normally* or *the arm shakes a lot and multiple times*
-
-4) Keep it simple, condition appears, proper drug is used once, and it goes away. 
 
 ## Allergies : 
 -------------

@@ -52,11 +52,11 @@ These conditions are another layer that adds on top, before the ingame damage se
 
    ## New conditions, how to diagnose, how to cure
 ---------------------------------------
-Arrhythmia (Real life :use a EKG to see the chaotic rhythm. Ingame : Stethoscope already ingame, use to hear irregular and fast heartbeats?): Amiodarone (IV drug)
-Seizure (See a player shaking on the floor) : Midazolam (IV drug)
-Food allergy and airway oedema (character gasps, context of food) : Epinephrin pen
-Acute heart failure (health check will show oedema, and shortness of breath) : Furosemide (IV drug), a diuretic = drug that makes you pee and lowers the load on the heart.
-Stroke (Every doctor needs to recognize the 3 signs such as limb weakness, hemianopia or aphasia see above), add reflex hammer to the game that can be used on limbs to show very reactive limbs from the stroke, in case of doubt. Use IV thrombolytics to cure. 
+	Arrhythmia (Real life :use a EKG to see the chaotic rhythm. Ingame : Stethoscope already ingame, use to hear irregular and fast heartbeats?): Amiodarone (IV drug)
+	Seizure (See a player shaking on the floor) : Midazolam (IV drug)
+	Food allergy and airway oedema (character gasps, context of food) : Epinephrin pen
+	Acute heart failure (health check will show oedema, and shortness of breath) : Furosemide (IV drug), a diuretic = drug that makes you pee and lowers the load on the heart.
+	Stroke (Every doctor needs to recognize the 3 signs such as limb weakness, hemianopia or aphasia see above), add reflex hammer to the game that can be used on limbs to show very reactive limbs from the stroke, in case of doubt. Use IV thrombolytics to cure. 
 
 ## Allergies : 
 -------------

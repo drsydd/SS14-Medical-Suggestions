@@ -25,7 +25,7 @@
 	Liver disease : RP, no gameplay value.
 	Lung disease (Remove? Asthma already there, keep things simple)
 	Migraines : Requires betablockers.
-	Neuroaversion  : not something medical, remove?
+	Neuroaversion  : not something medical, but Ive seen it used in the codebase with migraines...
 	Osteoporosis : RP, no gameplay value.
 	Seizures : Rename to Epilepsy, requires antiepileptics.
 	Sleep Apnea : Gives higher blood pressure.
@@ -44,8 +44,8 @@
 	Antipsychotics
 	Beta-blockers (Do not give to patient with asthma, it would deal asphyxiation damages)
 	Blood thinners (Do not give to someone already bleeding! Makes bleeding 2 times faster)
-	Hormones (remove? idk what use case for SS14)
-	Immunosuppressives (To remove maybe? see below for consequences if you don't take them)
+	Hormones : Depending which kind... Sexual hormones (for men : weakness, libido decrease, beard loss / for women : hot flashes, sweating, weakness ), thyroid hormones (weakness, constipation, weight gain), Cortisol (weakness, weight loss, abdominal pain, coma if severe lack of)
+	Immunosuppressives (See below for consequences if you don't take them)
 	Painkillers
 	Sleeping pills (should not be carried during the shift as you don't sleep during daytime, it could look suspicious based on the context, unless you're heading to a consultation where the doc will ask your medical history, or to pharmacy, or other reasons!)
 	
@@ -63,7 +63,7 @@
 	Antipsychotics : Might start seeing monsters instead of characters, hear weird noises or voices. Solved by taking pills.
 	Beta-blockers : Depends on what's in the medical history: Acute Heart failure = oedema, shortness of breath, can't run. Migraines. Essential tremor, shakey hands and drop items on the ground regularly. 
 	Blood thinners : Stroke = Symptoms can be one or multiple between not able to use a hand, standing on feet (1 limb paralysis), everything heard or spoken appears as gibberish (aphasia), one side of the vision is gone either left or right side of the game screen (hemianopia) See below for picture. 
-	Hormones : idk yet
+	Hormones : lot of  tings based on which hormones. Cortisol is the most severe and can lead to coma if patient is under stress and not taking it.
 	Immunosuppressives : organ failure. Player should spawn and know this otherwise it will be roundbreaking for them. How to show them this info? Or simply remove this?
 	Painkillers : pain
 	Sleeping pills : nothing gameplaywise as we don't sleep during shifts. Could be used by antags. 

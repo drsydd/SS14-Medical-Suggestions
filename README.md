@@ -13,7 +13,16 @@
 	Diabetes
 	Heart disease : rename to chronic heart failure
 	High blood pressure : Add something to measure it ingame? Or just show on HealthAnalyzer?
-	
+	HIV
+	Kidney disease
+	Liver disease
+	Lung disease (remove? Asthma already there, keep things simple)
+	Migraines
+	Neuroaversion  : not something medical, remove?
+	Osteoporosis
+	Seizures
+	Sleep Apnea
+	Stroke
 	
 ## Prescriptions, some are already in the game (customization screen):
 ---------------------------------------

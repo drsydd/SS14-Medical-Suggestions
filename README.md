@@ -21,27 +21,27 @@
 
 2) Patients should take their meds regularly if prescribed. Otherwise, their condition may worsen:
 ---------------------------------------
-	Antiacids : Start burping if not taken, burning pain emote on the chest especially after eating.
-	Anxiolytics : Start stuttering or shaking, might occasionnaly get a panic attack and stay frozen for a few sec.
-	Antiarrhythmics : Occasional text "you feel irregular heartbeats...". Rarely, tachycardia with weakness and very fast irregular heartbeats showing on HealthAnalyzer. Needs fast IV treatment to cure. Leads to cardiac arrest if left untreated too long.
+	Antiacids : Start burping if not taken, burning pain emote on the chest especially after eating. Solved by taking pills.
+	Anxiolytics : Start stuttering or shaking, might occasionnaly get a panic attack and stay frozen for a few sec. Solved by taking pills.
+	Antiarrhythmics : Occasional text "you feel irregular heartbeats...". Rarely, tachycardia with weakness and very fast irregular heartbeats showing on HealthAnalyzer (arrhythmia). Needs fast IV treatment to cure. Leads to cardiac arrest if left untreated too long.
 	Anticonvulsivants : not to be taken regularly, only to stop seizures. Use antiepileptics to prevent seizures in the long run. 
-	Antidepressants : Starts crying often, *sighs* a lot.
+	Antidepressants : Starts crying often, *sighs* a lot. Solved by taking pills.
 	Antiepileptics: Seizures might appear if not taken. Player shaking on the floor for up to a minute. 
-	Antihistamines : Allergies might appear : skin rash on health Analyzer, *itches* a lot, *sneezes* a lot, pain. 
-	Antipsychotics : Might start seeing monsters instead of characters, hear weird noises or voices.
+	Antihistamines : Allergies might appear : skin rash on health Analyzer, *itches* a lot, *sneezes* a lot, pain. Solved by taking pills.
+	Antipsychotics : Might start seeing monsters instead of characters, hear weird noises or voices. Solved by taking pills.
 	Beta-blockers : Acute Heart failure = oedema, shortness of breath, can't run. 
 	Blood thinners : Stroke = Symptoms can be one or multiple between not able to use a hand, standing on feet (1 limb paralysis), everything heard or spoken appears as gibberish (aphasia), one side of the vision is gone either left or right side of the game screen (hemianopia) See below for picture. 
-	Hormones : 
-	Immunosuppressives : organ failure 
+	Hormones : idk yet
+	Immunosuppressives : organ failure. Player should spawn and know this otherwise it will be roundbreaking for them. Remove this?
 	Painkillers : pain
 	Sleeping pills : nothing gameplaywise as we don't sleep during shifts. Could be used by antags. 
 
-3) Meds should be pills of various colors.
+3) Meds should be pills of various colors. Some should be IV such as thrombolytics in case of a stroke.
 
 4) Instead of family medical history (useless gameplay wise), maybe change to personal medical history (keep family for RP?). The history X prescription combination will define the consequences if the treatment is not taken. For example, beta-blockers have 3 usual indications:
-* If patient has migraines, not taken betablockers will lead to headaches.
-* If patient has chronic heart failure, not taking them will lead to acute heart failure.
-* If patient has essential tremor (New), not taking them leads to hands shaking and dropping items on the floor regularly. 
+* If patient has migraines, not taken betablockers will lead to headaches. Solved by taking pills.
+* If patient has chronic heart failure, not taking them will lead to acute heart failure. Use IV drug (Furosemide) to cure. 
+* If patient has essential tremor (New), not taking them leads to hands shaking and dropping items on the floor regularly. Solved by taking pills.
 
 5) Some players should spawn without their meds (Patient often cannot get an appointment fast enough to renew them, or forget them when travelling). This would lead to more early round gameplay for doctors, with a few patients coming in to renew their prescriptions (RP).
 
@@ -49,6 +49,14 @@
 These conditions are another layer that adds on top, before the ingame damage settle in. These conditions sometimes add damage if left untreated, or crit patients depending on their severity (a very severe condition would be blood thinners to prevent strokes).
 
 7) Having these various conditions and prescriptions would lead to interesting RP with CMO doing rounds for interns?
+
+   ## New conditions, how to diagnose, how to cure
+---------------------------------------
+Arrhythmia (Real life :use a EKG to see the chaotic rhythm. Ingame : Stethoscope already ingame, use to hear irregular and fast heartbeats?): Amiodarone (IV drug)
+Seizure (See a player shaking on the floor) : Midazolam (IV drug)
+Food allergy and airway oedema (character gasps, context of food) : Epinephrin pen
+Acute heart failure (health check will show oedema, and shortness of breath) : Furosemide (IV drug), a diuretic = drug that makes you pee and lowers the load on the heart.
+Stroke (Every doctor needs to recognize the 3 signs such as limb weakness, hemianopia or aphasia see above), add reflex hammer to the game that can be used on limbs to show very reactive limbs from the stroke, in case of doubt. Use IV thrombolytics to cure. 
 
 ## Allergies : 
 -------------

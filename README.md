@@ -58,6 +58,12 @@ These conditions are another layer that adds on top, before the ingame damage se
 	Acute heart failure (health check will show oedema, and shortness of breath) : Furosemide (IV drug), a diuretic = drug that makes you pee and lowers the load on the heart.
 	Stroke (Every doctor needs to recognize the 3 signs such as limb weakness, hemianopia or aphasia see above), add reflex hammer to the game that can be used on limbs to show very reactive limbs from the stroke, in case of doubt. Use IV thrombolytics to cure. 
 
+1) This introduces 4 new IV drugs : Midazolam, Furosemide, Thrombolytics, Amiodarone.
+
+2) This adds a use for the stethoscope.
+
+3) Introduces a hammer reflex that can be used for RP, and to be really sure of a stroke if a patient shows up with just one limb weakness. Hold in one hand and aim on different limbs to use. Will return an emote *the arm shakes normally* or *the arm shakes a lot and multiple times* 
+
 ## Allergies : 
 -------------
 Limit to food to begin with, then extend to materials (latex etc. with checks when handling different items, and symptoms involving only skin like rash and pain)

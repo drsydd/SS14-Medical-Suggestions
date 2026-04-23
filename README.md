@@ -78,7 +78,7 @@ These conditions are another layer of flavor/RP. If left untreated, some can eve
 
 8) Having these various conditions and prescriptions would lead to interesting RP with CMO doing rounds for interns?
 
-9) More early round gameplay 
+9) More early round gameplay for doctors and people without meds. 
 
    ## Newly introduced conditions that have a specific treatment, how to diagnose, how to cure
 ---------------------------------------

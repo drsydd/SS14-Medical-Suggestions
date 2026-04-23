@@ -1,28 +1,30 @@
 # SS14-Medical-Suggestions
 
-## Add a personnal medical history (most is already in the game, customization screen). Some combination of this and prescriptions will define symptoms that can occur to patients if they don't take their meds regularly.
+## Add a personnal medical history (most is already in the game as "Family Medical History", customization screen). 
+1) Some combination of this and prescriptions will define symptoms that can occur to patients if they don't take their meds regularly. For example betablockers that can be prescribed for 3 underlying common conditions. 
+2) Some of these have no impact ingame except for RP reasons.
 ---------------------------------------
-	Anemia
-	Arthritis
-	Asthma
-	Autoimmune disorder
-	Blood clots
-	Cancer
-	Chronic pain
-	Depression
-	Diabetes
+	Anemia : Bloodloss damage increased, or blood regen lowered?
+	Arthritis :  pain
+	Asthma : Beta-blockers given to asthmatic patients will cause asphyxiation damage.
+	Autoimmune disorder : RP, no gameplay value
+	Blood clots : Requires blood thinners.
+	Cancer : RP, no gameplay value.
+	Chronic pain : pain.
+	Depression : Requires antidepressants.
+	Diabetes : No gameplay value to begin with. Would require more work: add sweetness level to meals, and blood sugar level to HealthAnalyzer. If meds are not taken after eating something sweet, blood sugar rises and puts the player into a coma after a treshold. Requires IV insulin in medbay to treat. 
 	Heart disease : rename to chronic heart failure
-	High blood pressure : Add something to measure it ingame? Or just show on HealthAnalyzer?
-	HIV
-	Kidney disease
-	Liver disease
-	Lung disease (remove? Asthma already there, keep things simple)
-	Migraines
+	High blood pressure : Add something to measure it ingame? Or just show on HealthAnalyzer? 120/75 mmHg is a normal value
+	HIV : RP, no gameplay value, syringes could eventually contaminate people...
+	Kidney disease: RP, no gameplay value (would need significant rework of medical and blood filtration mechanics). Maybe just lower the treshold for drug overdose as aren't peed out as fast as usual? 
+	Liver disease : RP, no gameplay value.
+	Lung disease (Remove? Asthma already there, keep things simple)
+	Migraines : Requires betablockers.
 	Neuroaversion  : not something medical, remove?
-	Osteoporosis
-	Seizures
-	Sleep Apnea
-	Stroke
+	Osteoporosis : RP, no gameplay value.
+	Seizures : Rename to Epilepsy, requires antiepileptics.
+	Sleep Apnea : Gives higher blood pressure.
+	Stroke : Requires blood thinners or might happen again. 
 	
 ## Prescriptions, some are already in the game (customization screen):
 ---------------------------------------
@@ -35,10 +37,10 @@
 	Antihistamines
 	Antihyperetnsive (New)
 	Antipsychotics
-	Beta-blockers (DO NOT GIVE TO PATIENT THAT HAS ASTHMA or face the consequences of lung failure)
-	Blood thinners
+	Beta-blockers (Do not give to patient with asthma, it would deal asphyxiation damages)
+	Blood thinners (Do not give to someone already bleeding! Makes bleeding 2 times faster)
 	Hormones (remove? idk what use case for SS14)
-	Immunosuppressives
+	Immunosuppressives (To remove maybe? see below for consequences if you don't take them)
 	Painkillers
 	Sleeping pills (should not be carried during the shift as you don't sleep during daytime, it could look suspicious based on the context, unless you're heading to a consultation where the doc will ask your medical history, or to pharmacy, or other reasons!)
 	
@@ -57,7 +59,7 @@
 	Beta-blockers : Acute Heart failure = oedema, shortness of breath, can't run. 
 	Blood thinners : Stroke = Symptoms can be one or multiple between not able to use a hand, standing on feet (1 limb paralysis), everything heard or spoken appears as gibberish (aphasia), one side of the vision is gone either left or right side of the game screen (hemianopia) See below for picture. 
 	Hormones : idk yet
-	Immunosuppressives : organ failure. Player should spawn and know this otherwise it will be roundbreaking for them. Remove this?
+	Immunosuppressives : organ failure. Player should spawn and know this otherwise it will be roundbreaking for them. How to show them this info? Or simply remove this?
 	Painkillers : pain
 	Sleeping pills : nothing gameplaywise as we don't sleep during shifts. Could be used by antags. 
 3) "Take meds regularly" should be set to a an amount but I don't know yet. 30 min ingame? How to keep track of time ingame?

@@ -54,9 +54,9 @@
 	Anticonvulsivants : Use only for seizures (see below). Use antiepileptics to prevent seizures in the long run. 
 	Antidepressants : Starts crying often, *sighs* a lot. Solved by taking pills.
 	Antiepileptics: Seizures might appear if not taken. Player shaking on the floor for up to a minute. 
-	Antihistamines : Allergies might appear : skin rash on health Analyzer, *itches* a lot, *sneezes* a lot, pain. Solved by taking pills.
+	Antihistamines : Allergies might appear, skin rash on health Analyzer, *itches* a lot, *sneezes* a lot, pain. Solved by taking pills.
 	Antipsychotics : Might start seeing monsters instead of characters, hear weird noises or voices. Solved by taking pills.
-	Beta-blockers : Acute Heart failure = oedema, shortness of breath, can't run. 
+	Beta-blockers : Depends on what's in the medical history: Acute Heart failure = oedema, shortness of breath, can't run. Migraines. Essential tremor, shakey hands and drop items on the ground regularly. 
 	Blood thinners : Stroke = Symptoms can be one or multiple between not able to use a hand, standing on feet (1 limb paralysis), everything heard or spoken appears as gibberish (aphasia), one side of the vision is gone either left or right side of the game screen (hemianopia) See below for picture. 
 	Hormones : idk yet
 	Immunosuppressives : organ failure. Player should spawn and know this otherwise it will be roundbreaking for them. How to show them this info? Or simply remove this?

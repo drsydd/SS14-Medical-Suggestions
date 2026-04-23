@@ -30,17 +30,23 @@
 	Antihistamines : Allergies might appear : skin rash on health Analyzer, *itches* a lot, *sneezes* a lot. 
 	Antipsychotics : Might start seeing monsters instead of characters, hear weird noises or voices.
 	Beta-blockers : Acute Heart failure = oedema, shortness of breath, can't run. 
+	Blood thinners : Stroke = Symptoms can be one or multiple between not able to use a hand, standing on feet (1 limb paralysis), everything heard or spoken appears as gibberish (aphasia), one side of the vision is amputated either left or right side of the game screen (hemianopsia). 
+	Hormones : 
+	Immunosuppressives : organ failure 
+	Painkillers : pain
+	Sleeping pills : nothing gameplaywise as we don't sleep during shifts. Could be used by antags. 
 
 3) Meds should be pills of various colors.
 
-4) Instead of family medical history (useless gameplay wise), maybe change to personal medical history. The history X prescription combination will define the consequences if the treatment is not taken.
-> If patient has migraines, not taken betablockers will lead to headaches. If patient has chronic heart failure, not taking them will lead to acute heart failure.
-> If patient has essential tremor (NEW), not taking them leads to hands shaking and dropping items on the floor regularly. 
+4) Instead of family medical history (useless gameplay wise), maybe change to personal medical history (keep family for RP?). The history X prescription combination will define the consequences if the treatment is not taken. For example, beta-blockers have 3 usual indications:
+* If patient has migraines, not taken betablockers will lead to headaches.
+* If patient has chronic heart failure, not taking them will lead to acute heart failure.
+* If patient has essential tremor (New), not taking them leads to hands shaking and dropping items on the floor regularly. 
 
-5) Some players should spawn without their meds (people often couldn't get an appointment fast enough to renew them, or forget them when travelling). This would lead to more early round gameplay for medical with a few patients coming in to renew their prescriptions (RP).
+5) Some players should spawn without their meds (Patient often cannot get an appointment fast enough to renew them, or forget them when travelling). This would lead to more early round gameplay for doctors, with a few patients coming in to renew their prescriptions (RP).
 
-6) All of the above extends the medical gameplay on what has already been put in the customization screen, but is unique compared to the basic 4 or 5 type of damages already in the game.
-These conditions are another layer that can sometimes add damage if left untreated, or crit patients depending on their severity.
+6) All of the above extends the medical gameplay on what has already been put in the customization screen, but is unique compared to the basic 4 or 5 type of damages already in the game and their treatment when damage already occured.
+These conditions are another layer that adds on top, before the ingame damage settle in. These conditions sometimes add damage if left untreated, or crit patients depending on their severity (a very severe condition would be blood thinners to prevent strokes).
 
 7) Having these various conditions and prescriptions would lead to interesting RP with CMO doing rounds for interns?
 

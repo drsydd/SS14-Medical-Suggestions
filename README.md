@@ -26,8 +26,8 @@
 	Antiarrhythmics : Occasional text "you feel irregular heartbeats...". Rarely, tachycardia with weakness and very fast irregular heartbeats showing on HealthAnalyzer. Needs fast IV treatment to cure. Leads to cardiac arrest if left untreated too long.
 	Anticonvulsivants : not to be taken regularly, only to stop seizures. Use antiepileptics to prevent seizures in the long run. 
 	Antidepressants : Starts crying often, *sighs* a lot.
-	Antiepileptics: Seizures might appear if not taken.
-	Antihistamines : Allergies might appear : skin rash on health Analyzer, *itches* a lot, *sneezes* a lot. 
+	Antiepileptics: Seizures might appear if not taken. Player shaking on the floor for up to a minute. 
+	Antihistamines : Allergies might appear : skin rash on health Analyzer, *itches* a lot, *sneezes* a lot, pain. 
 	Antipsychotics : Might start seeing monsters instead of characters, hear weird noises or voices.
 	Beta-blockers : Acute Heart failure = oedema, shortness of breath, can't run. 
 	Blood thinners : Stroke = Symptoms can be one or multiple between not able to use a hand, standing on feet (1 limb paralysis), everything heard or spoken appears as gibberish (aphasia), one side of the vision is amputated either left or right side of the game screen (hemianopsia). 

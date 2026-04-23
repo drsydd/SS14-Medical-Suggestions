@@ -1,6 +1,21 @@
 # SS14-Medical-Suggestions
 
-## Prescriptions already in the game (customization screen):
+## Add a personnal medical history (most is already in the game, customization screen) :
+---------------------------------------
+	Anemia
+	Arthritis
+	Asthma
+	Autoimmune disorder
+	Blood clots
+	Cancer
+	Chronic pain
+	Depression
+	Diabetes
+	Heart disease : rename to chronic heart failure
+	High blood pressure : Add something to measure it ingame? Or just show on HealthAnalyzer?
+	
+	
+## Prescriptions, some are already in the game (customization screen):
 ---------------------------------------
 	Antiacids
 	Anti-anxiety Medication : rename to Anxiolytics
@@ -9,22 +24,23 @@
 	Antidepressants
 	Antiepileptics
 	Antihistamines
+	Antihyperetnsive (New)
 	Antipsychotics
 	Beta-blockers (DO NOT GIVE TO PATIENT THAT HAS ASTHMA or face the consequences of lung failure)
 	Blood thinners
-	Hormones
+	Hormones (remove? idk what use case for SS14)
 	Immunosuppressives
 	Painkillers
-	Sleeping pills (should not be carried during the shift, it could look suspicious unless you're heading to a consultation where the doc will ask your medical history, or to pharmacy
+	Sleeping pills (should not be carried during the shift as you don't sleep during daytime, it could look suspicious based on the context, unless you're heading to a consultation where the doc will ask your medical history, or to pharmacy, or other reasons!)
 	
 1) A limit should be set for gameplay reasons.
 
-2) Patients should take their meds regularly if prescribed. Otherwise, their condition may worsen:``
+2) Patients should take their meds regularly if prescribed. Otherwise, their condition may worsen:
 ---------------------------------------
 	Antiacids : Start burping if not taken, burning pain emote on the chest especially after eating. Solved by taking pills.
 	Anxiolytics : Start stuttering or shaking, might occasionnaly get a panic attack and stay frozen for a few sec. Solved by taking pills.
-	Antiarrhythmics : Occasional text "you feel irregular heartbeats...". Rarely, tachycardia with weakness and very fast irregular heartbeats showing on HealthAnalyzer (arrhythmia). Needs fast IV treatment to cure. Leads to cardiac arrest if left untreated too long.
-	Anticonvulsivants : not to be taken regularly, only to stop seizures. Use antiepileptics to prevent seizures in the long run. 
+	Antiarrhythmics : Occasional text "you feel irregular heartbeats...". Rarely, tachycardia with weakness and very fast irregular heartbeats showing on HealthAnalyzer (arrhythmia). Needs fast IV treatment to cure. Leads to cardiac arrest (death with asphyxia damage) if left untreated too long.
+	Anticonvulsivants : Use only for seizures (see below). Use antiepileptics to prevent seizures in the long run. 
 	Antidepressants : Starts crying often, *sighs* a lot. Solved by taking pills.
 	Antiepileptics: Seizures might appear if not taken. Player shaking on the floor for up to a minute. 
 	Antihistamines : Allergies might appear : skin rash on health Analyzer, *itches* a lot, *sneezes* a lot, pain. Solved by taking pills.
@@ -35,20 +51,21 @@
 	Immunosuppressives : organ failure. Player should spawn and know this otherwise it will be roundbreaking for them. Remove this?
 	Painkillers : pain
 	Sleeping pills : nothing gameplaywise as we don't sleep during shifts. Could be used by antags. 
+3) "Take meds regularly" should be set to a an amount but I don't know yet. 30 min ingame? How to keep track of time ingame?
 
-3) Meds should be pills of various colors. Some should be IV such as thrombolytics in case of a stroke.
+4) Meds should be pills of various colors. Some should be IV for the most severe cases and need to be done administered by someone else in medbay. See below for new IV drugs.
 
-4) Instead of family medical history (useless gameplay wise), maybe change to personal medical history (keep family for RP?). The history X prescription combination will define the consequences if the treatment is not taken. For example, beta-blockers have 3 usual indications:
-* If patient has migraines, not taken betablockers will lead to headaches. Solved by taking pills.
-* If patient has chronic heart failure, not taking them will lead to acute heart failure. Use IV drug (Furosemide) to cure. 
-* If patient has essential tremor (New), not taking them leads to hands shaking and dropping items on the floor regularly. Solved by taking pills.
+5) Instead of family medical history (useless gameplay wise, but good for RP?), maybe change to personal medical history. The history and prescription combination will define the consequences if the treatment is not taken. For example, beta-blockers have 3 usual indications:
+* If patient has migraines history, not taken betablockers will lead to headaches. Solved by taking pills.
+* If patient has chronic heart failure history, not taking them will lead to acute heart failure. Use IV drug (Furosemide) to cure. 
+* If patient has essential tremor history (New), not taking them leads to hands shaking and dropping items on the floor regularly. Solved by taking pills.
 
-5) Some players should spawn without their meds (Patient often cannot get an appointment fast enough to renew them, or forget them when travelling). This would lead to more early round gameplay for doctors, with a few patients coming in to renew their prescriptions (RP).
+6) Some players should spawn without their meds (Patient often cannot get an appointment fast enough to renew them, or forget them when travelling). This would lead to more early round gameplay for doctors, with a few patients coming in to renew their prescriptions (RP).
 
-6) All of the above extends the medical gameplay on what has already been put in the customization screen, but is unique compared to the basic 4 or 5 type of damages already in the game and their treatment when damage already occured.
+7) All of the above extends the medical gameplay on what has already been put in the customization screen, but is unique compared to the basic 4 or 5 type of damages already in the game and their treatment when damage already occured.
 These conditions are another layer that adds on top, before the ingame damage settle in. These conditions sometimes add damage if left untreated, or crit patients depending on their severity (a very severe condition would be blood thinners to prevent strokes).
 
-7) Having these various conditions and prescriptions would lead to interesting RP with CMO doing rounds for interns?
+8) Having these various conditions and prescriptions would lead to interesting RP with CMO doing rounds for interns?
 
    ## Conditions that have new treatment, how to diagnose, how to cure
 ---------------------------------------

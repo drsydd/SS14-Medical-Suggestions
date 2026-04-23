@@ -110,4 +110,6 @@ Patients should know their allergies from the customization screen. RP gameplay 
 Pictures and explanations
 --------------------------
 Example of hemianopia during a stroke : 
+<img width="163" height="192" alt="hemianopia" src="https://github.com/user-attachments/assets/621be6c5-93c6-43b7-a6ed-1cafcee4bd7f" />
+
 ![Example of hemianopia during a stroke.](https://my.clevelandclinic.org/-/scassets/images/org/health/articles/homonymous-hemianopsia-2)
